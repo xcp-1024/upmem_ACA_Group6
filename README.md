@@ -1,5 +1,6 @@
 xcp@LAPTOP-JE19T5ML:/mnt/g/upmem/upmem/upmem_ACA-main/Task-dga_domain_detection$ ./domain_host
 libnuma: Warning: Cannot read node cpumask from sysfs
+
 Domain: baidu.com
 Char IDs: 15 11 8 18 4 3 17 6 5 0 0 0 0 0 0 0 
 Embedding values: 5.000000 6.000000 7.000000 8.000000 
